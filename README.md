@@ -4,4 +4,4 @@
 # You can add create order
 # you can generate invoice in pdf format
 # Stock Management System
-Its upload it with database file
+Its with database file
